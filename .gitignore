@@ -30,12 +30,10 @@ HELP.md
 
 
 *.class
-/target/
+
 target/
-.project
 .settings/
-.classpath
-.factorypath
+/.mvn/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -48,7 +46,6 @@ target/
 hs_err_pid*
 # idea ignore
 /.idea/*
-*.iml
 *rebel.xml*
 *rebel-remote.xml*
 
